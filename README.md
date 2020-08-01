@@ -6,4 +6,4 @@
 
 - Main app.js file.
 
-- Dependencies (Coming soon..).
+- Dependencies express, dotenv, passport, passport-local, bcryptjs, ejs, express-sessions, mongoose, connect-flash, nodemon, mongoose.
