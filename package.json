@@ -1,5 +1,14 @@
 {
   "name": "@vinc86/struct",
-  "version": "1.0.0",
-  "license": "MIT"
+  "version": "1.0.1",
+  "license": "MIT",
+  "repository": "vinc86/struct",
+  "description": "basic express based boilerplate to start with a project",
+  "main": "app.js",
+  "keywords": [
+    "vinc86",
+    "boilerplate",
+    "express",
+    "package"
+  ]
 }
