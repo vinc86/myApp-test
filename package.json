@@ -1,6 +1,6 @@
 {
   "name": "@vinc86/struct",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "license": "MIT",
   "repository": "vinc86/struct",
   "description": "basic express based boilerplate to start with a project",
